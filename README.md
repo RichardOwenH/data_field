@@ -4,12 +4,24 @@
 
 This repository is the place for my project about data field (Data Analysis, Data Science, Data Engineer).
 
-## test
+## Glosarium
 ```python
-import time
+import pandas as pd
 ```
+Library for data analysis and manipulation tool.
 
-##### hell
+```python
+import numpy as np
+```
+Library for arrays, linear algebra, fourier transform, and matrices.
+
+```python
+import matplotlib.pyplot as plt 
+import seaborn as sns
+```
+Library for visualization of the graphical statistical plotting.
+
+### Testing
 
 ```bash
 pip install
